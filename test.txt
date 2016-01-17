@@ -1,0 +1,22 @@
+integer a is 10
+
+while a greater than 1
+{
+	#write comment
+	#a equal 5000000
+	
+	a = a - 1
+	
+	if a == 2
+	{
+		write "a is 2!!"
+	}
+	else
+	{
+		if a times a equals 9
+		{
+			write a times a
+		}
+	}
+}
+

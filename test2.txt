@@ -1,0 +1,9 @@
+string a equal "heippa!"
+string b equal "#" * 100
+
+write a * 10
+write "-" * 80
+write b
+write ""
+write b * 2
+

@@ -1,0 +1,9 @@
+for integer a is 0; a lesser or equal to 10; a is a + 1
+{
+	write a times a
+}
+
+for integer b is 0; b >= -10; b is b - 1
+{
+	write b
+}
